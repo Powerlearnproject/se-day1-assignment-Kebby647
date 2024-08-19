@@ -53,6 +53,16 @@ The Roles of the members of a software development team are as follows:
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+IDEs are software applications that provide a comprehensive set of tools for software development. They make coding easier and more efficient.They are reliable in Code editing and  
+Debugging.Examples are Visual Studio Code, PyCharm, Eclipse, IntelliJ IDEA.   
+
+Version Control Systems (VCS)
+VCS track changes made to a codebase over time. They allow developers to collaborate efficiently and recover previous versions if needed. They are useful in Collaboration where multiple developers can work on the same codebase simultaneously.
+Backup and history keeping by protecting codes from accidental loss and tracking changes over time, aiding in debugging and analysis. Moreover, allows experimentation by trying different approaches without affecting the main code.Examples are Git, SVN, Mercurial.
+
+In essence, IDEs are tools for individual developers, while VCS are tools for teams. Together, they form the backbone of modern software development.
+
+
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
@@ -87,6 +97,13 @@ Prompt engineering is the art of crafting instructions, or "prompts," to get the
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 An example of vague prompt: "Tell me about programming languages"
+
 An improved prompt: "Provide a day to day plan on how I can learn Python for machine learning in six weeks period"
+
 Explanation: The improved prompt above is more effective because it commands the AI assistant by
+effectively communicating the desired outcome and constraints of the task that is to say:
+It is Clear: The goal is directly stated: learning Python for machine learning.
+It is Specific: The timeframe is defined as six weeks.
+It is Concise: The request is brief and to the point, without unnecessary details.
