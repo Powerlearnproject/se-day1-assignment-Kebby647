@@ -40,6 +40,8 @@ The phases of software developent life cycle are:
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Waterfall and Agile are methodologies of building things where as: Waterfall methodology involves a direct approach of rigorous steps that are dully followed one after the other  
+
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
