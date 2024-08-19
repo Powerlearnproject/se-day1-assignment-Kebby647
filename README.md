@@ -8,12 +8,22 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Software engineering is a systematic process of designing high-quality software systems which dully involves testing, deployement and maintenance of the so developed softawares. Its importance is that it tailors software systems and applications that helps in navigation of day to day modern life such activities as communication and healthcare. 
 
+
+
 Identify and describe at least three key milestones in the evolution of software engineering.
+
+The three key milestones in evolution of software engineering are:
+1.Software Crisis in 1960s: Software projects were messy and often failed.This crisis highlighted the need for structured approaches to software development. It led to the development of formal methodologies and processes to improve software quality and predictability.
+
+2.Object-Oriented Programming(OOP) in 1980s: Software became more organized and reusable.OOP revolutionized software development, leading to the creation of more complex and robust systems. It laid the foundation for modern software engineering practices
+
+3.Agile Development 2001: The Agile Manifesto, which emphasized flexibility, customer collaboration, and iterative development over rigid planning and documentation was published by a group of  developers.Software teams became more flexible and customer-focused.Agile methodologies challenged traditional waterfall models and brought about a more adaptive approach to software development which improved project success rates and customer satisfaction.
+
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-the phases of software developent life cycle are:
+The phases of software developent life cycle are:
 1)Planning: In this phase the designer defines the sole purpose and scope of the software which enables them to pinpoint end users' needs generally by asking to themselves questions such as "What problems will the software solve?" and "What value will be brought to the end user?"
 
 2)Requirements Analysis:It is the pivotal phase wherein the development team gathers and analyse teh end users' expectations from the software in a manner that enables the team to understand the software's functionality, perfomance and interface needs.
@@ -29,6 +39,7 @@ the phases of software developent life cycle are:
 7)Maintenance: Is the neverending phase which involves constant assistance and improvement of the software which guaramtes its efficiency in meeting the end users' expectations. Here is where the team responds to users feedbacks, resolves unexpected errors and upgrading the software
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
