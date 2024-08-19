@@ -10,6 +10,7 @@ Software engineering is a systematic process of designing high-quality software 
 
 
 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 The three key milestones in evolution of software engineering are:
@@ -38,9 +39,17 @@ The phases of software developent life cycle are:
 
 7)Maintenance: Is the neverending phase which involves constant assistance and improvement of the software which guaramtes its efficiency in meeting the end users' expectations. Here is where the team responds to users feedbacks, resolves unexpected errors and upgrading the software
 
+
+
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-Waterfall and Agile are methodologies of building things where as: Waterfall methodology involves a direct approach of rigorous steps that are dully followed one after the other  
+Waterfall and Agile are methodologies of building things where as: Waterfall methodology involves a direct approach of rigorous steps that are dully followed one after the other through out the building process till completion. This methodology is effectively practical in scenario projects where you know exactly what you want to build from the start such as creating a very large software system with clear requirements.
+
+WHILE 
+
+Agile methodology involves building and learning simultaneously whilst being adaptable by making room for changes and feedback. It's practical in scenario projects where things might change. You can adapt as you go such as developing a new app, making a website, or working on a project where customer feedback is important.  
+
 
 
 
@@ -52,6 +61,9 @@ The Roles of the members of a software development team are as follows:
 2) Quality assurance engieneer:He/She has a role of identifying bugs and flaws of the software before it is deployed to the public. They practically ensure that the software meets company and industry standars. They also run software compatibility tests and drive product improvements.
 
 3)Project Manager:This person has a role of supervisisng the whole development process and its market entry.They essentially plan and control tasks, set goals and milestones for the team. They are also responsible for analysing industry, maket and competitor trends to ensure the products' competitiveness.
+
+
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
@@ -66,6 +78,7 @@ In essence, IDEs are tools for individual developers, while VCS are tools for te
 
 
 
+
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Challenges faced by software engineers and strategies to overcome them are;
@@ -74,6 +87,7 @@ Challenges faced by software engineers and strategies to overcome them are;
 2.Maintaining Quality: Ensuring the quality of software systems can be a challenging task, as developers need to account for various factors such as performance, security, and usability.The software engineers can overcome quality maintenance by employing software testing and quality assurance techniques to ensure the quality of software systems, and conduct code reviews to identify and fix issues early on.
 
 3.Meeting Deadlines: Developers often work under tight deadlines, which can make it difficult to ensure the quality of the final product. The development team can opt to use project management techniques such as Agile development and Scrum to plan and manage work effectively therefore meeting the deadlines.
+
 
 
 
@@ -96,6 +110,8 @@ Types of Software Testing and their importance in software quality assurance.
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is the art of crafting instructions, or "prompts," to get the best possible results from the AI. It is crucial because it aids in  getting accurate results while saving time and unlocking AI potential.
+
+
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
